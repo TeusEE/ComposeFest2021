@@ -1,4 +1,4 @@
-package com.codelab.basics.ui
+package com.codelab.layouts.ui
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
@@ -12,5 +12,4 @@ val typography = Typography(
         fontWeight = FontWeight.Normal,
         fontSize = 16.sp
     )
-
 )
